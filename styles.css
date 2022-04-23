@@ -3,7 +3,7 @@
 }
 
 html {
-  font-family: 'Jost', sans-serif;
+  font-family: "Jost", sans-serif;
 }
 
 body {
@@ -103,7 +103,7 @@ button:disabled {
 }
 
 .log--player {
-  color: #7700ff;
+  color: #7832c7;
 }
 
 .log--monster {
